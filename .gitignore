@@ -1,0 +1,4 @@
+__pycache__/
+airflow_pyspark/logs/*
+
+!airflow_pyspark/logs/.gitkeep 
