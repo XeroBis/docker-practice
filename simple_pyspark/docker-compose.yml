@@ -1,0 +1,6 @@
+version: '3'
+services:
+  spark:
+    build: .
+    container_name: spark_app
+    command: python3 spark_app.py
